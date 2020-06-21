@@ -42,6 +42,7 @@ document.querySelector('.btn-roll').addEventListener('click', function() {
             nextPlayer();
         }
         
+        //Phase 2.1 here for reference
         /*
         if (dice === 6 && lastDice === 6) {
             //Player looses score
